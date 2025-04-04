@@ -5,7 +5,7 @@
   <img src="https://github.com/vishnukrajan007/vishnukrajan007/blob/main/Banner.png" alt="DevOpsVKR Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India, constantly learning new skills and mastering real-world automation in the Corporate IT sector."</a></h3>
+<h3 align="center">A passionate DevOps Engineer from India, constantly learning new skills and mastering real-world automation in the Corporate IT sector </a></h3>
 
 <p align="center">
   <a href="https://github.com/vishnukrajan007">
